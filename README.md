@@ -1,6 +1,8 @@
-# gl\_cuda\_interop\_pingpong_st
+# gl\_cl\_interop\_pingpong_st
 
 This is a small sample that demonstrates the way to use the *OpenCL-OpenGL* *interop* API in a single-threaded manner, using **explicit** synchronization.
+
+This sample uses the extension [cl\\_khr\\_gl\\_event](https://www.khronos.org/registry/cl/sdk/1.1/docs/man/xhtml/gl_event.html) & [GL\\_ARB\\_cl\\_event](https://www.opengl.org/registry/specs/ARB/cl_event.txt)
 
 This example computes with *OpenCL* a temperature scalar field that gets updated every frame. The visual result is a a 256 x 256 x 256 uniform grid. It is rendered in *OpenGL* with a basic ray-marching fragment shader.
 
