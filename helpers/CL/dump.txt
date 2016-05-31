@@ -1,0 +1,1068 @@
+Microsoft (R) COFF/PE Dumper Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file OpenCL.lib
+
+File Type: LIBRARY
+
+FILE HEADER VALUES
+            8664 machine (x64)
+               3 number of sections
+        4BD90F83 time date stamp Thu Apr 29 00:48:03 2010
+             10A file pointer to symbol table
+               8 number of symbols
+               0 size of optional header
+               0 characteristics
+
+SECTION HEADER #1
+.debug$S name
+       0 physical address
+       0 virtual address
+      40 size of raw data
+      8C file pointer to raw data (0000008C to 000000CB)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42100040 flags
+         Initialized Data
+         Discardable
+         1 byte align
+         Read Only
+
+SECTION HEADER #2
+.idata$2 name
+       0 physical address
+       0 virtual address
+      14 size of raw data
+      CC file pointer to raw data (000000CC to 000000DF)
+      E0 file pointer to relocation table
+       0 file pointer to line numbers
+       3 number of relocations
+       0 number of line numbers
+C0300040 flags
+         Initialized Data
+         4 byte align
+         Read Write
+
+SECTION HEADER #3
+.idata$6 name
+       0 physical address
+       0 virtual address
+       C size of raw data
+      FE file pointer to raw data (000000FE to 00000109)
+      E0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0200040 flags
+         Initialized Data
+         2 byte align
+         Read Write
+
+FILE HEADER VALUES
+            8664 machine (x64)
+               2 number of sections
+        4BD90F83 time date stamp Thu Apr 29 00:48:03 2010
+              B8 file pointer to symbol table
+               2 number of symbols
+               0 size of optional header
+               0 characteristics
+
+SECTION HEADER #1
+.debug$S name
+       0 physical address
+       0 virtual address
+      40 size of raw data
+      64 file pointer to raw data (00000064 to 000000A3)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42100040 flags
+         Initialized Data
+         Discardable
+         1 byte align
+         Read Only
+
+SECTION HEADER #2
+.idata$3 name
+       0 physical address
+       0 virtual address
+      14 size of raw data
+      A4 file pointer to raw data (000000A4 to 000000B7)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0300040 flags
+         Initialized Data
+         4 byte align
+         Read Write
+
+FILE HEADER VALUES
+            8664 machine (x64)
+               3 number of sections
+        4BD90F83 time date stamp Thu Apr 29 00:48:03 2010
+              DC file pointer to symbol table
+               2 number of symbols
+               0 size of optional header
+               0 characteristics
+
+SECTION HEADER #1
+.debug$S name
+       0 physical address
+       0 virtual address
+      40 size of raw data
+      8C file pointer to raw data (0000008C to 000000CB)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42100040 flags
+         Initialized Data
+         Discardable
+         1 byte align
+         Read Only
+
+SECTION HEADER #2
+.idata$5 name
+       0 physical address
+       0 virtual address
+       8 size of raw data
+      CC file pointer to raw data (000000CC to 000000D3)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0400040 flags
+         Initialized Data
+         8 byte align
+         Read Write
+
+SECTION HEADER #3
+.idata$4 name
+       0 physical address
+       0 virtual address
+       8 size of raw data
+      D4 file pointer to raw data (000000D4 to 000000DB)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0400040 flags
+         Initialized Data
+         8 byte align
+         Read Write
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clBuildProgram
+  Type         : code
+  Name type    : name
+  Hint         : 0
+  Name         : clBuildProgram
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 1
+  Name         : clCreateBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000020
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateCommandQueue
+  Type         : code
+  Name type    : name
+  Hint         : 2
+  Name         : clCreateCommandQueue
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateContext
+  Type         : code
+  Name type    : name
+  Hint         : 3
+  Name         : clCreateContext
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000023
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateContextFromType
+  Type         : code
+  Name type    : name
+  Hint         : 4
+  Name         : clCreateContextFromType
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000020
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateFromGLBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 5
+  Name         : clCreateFromGLBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000026
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateFromGLRenderbuffer
+  Type         : code
+  Name type    : name
+  Hint         : 6
+  Name         : clCreateFromGLRenderbuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000023
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateFromGLTexture2D
+  Type         : code
+  Name type    : name
+  Hint         : 7
+  Name         : clCreateFromGLTexture2D
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000023
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateFromGLTexture3D
+  Type         : code
+  Name type    : name
+  Hint         : 8
+  Name         : clCreateFromGLTexture3D
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateImage2D
+  Type         : code
+  Name type    : name
+  Hint         : 9
+  Name         : clCreateImage2D
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateImage3D
+  Type         : code
+  Name type    : name
+  Hint         : 10
+  Name         : clCreateImage3D
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateKernel
+  Type         : code
+  Name type    : name
+  Hint         : 11
+  Name         : clCreateKernel
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000024
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateKernelsInProgram
+  Type         : code
+  Name type    : name
+  Hint         : 12
+  Name         : clCreateKernelsInProgram
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000025
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateProgramWithBinary
+  Type         : code
+  Name type    : name
+  Hint         : 13
+  Name         : clCreateProgramWithBinary
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000025
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateProgramWithSource
+  Type         : code
+  Name type    : name
+  Hint         : 14
+  Name         : clCreateProgramWithSource
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateSampler
+  Type         : code
+  Name type    : name
+  Hint         : 15
+  Name         : clCreateSampler
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001D
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateSubBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 16
+  Name         : clCreateSubBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001D
+  DLL name     : OpenCL.dll
+  Symbol name  : clCreateUserEvent
+  Type         : code
+  Name type    : name
+  Hint         : 17
+  Name         : clCreateUserEvent
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000025
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueAcquireGLObjects
+  Type         : code
+  Name type    : name
+  Hint         : 18
+  Name         : clEnqueueAcquireGLObjects
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueBarrier
+  Type         : code
+  Name type    : name
+  Hint         : 19
+  Name         : clEnqueueBarrier
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001F
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueCopyBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 20
+  Name         : clEnqueueCopyBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000023
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueCopyBufferRect
+  Type         : code
+  Name type    : name
+  Hint         : 21
+  Name         : clEnqueueCopyBufferRect
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000026
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueCopyBufferToImage
+  Type         : code
+  Name type    : name
+  Hint         : 22
+  Name         : clEnqueueCopyBufferToImage
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001E
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueCopyImage
+  Type         : code
+  Name type    : name
+  Hint         : 23
+  Name         : clEnqueueCopyImage
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000026
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueCopyImageToBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 24
+  Name         : clEnqueueCopyImageToBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001E
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueMapBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 25
+  Name         : clEnqueueMapBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001D
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueMapImage
+  Type         : code
+  Name type    : name
+  Hint         : 26
+  Name         : clEnqueueMapImage
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueMarker
+  Type         : code
+  Name type    : name
+  Hint         : 27
+  Name         : clEnqueueMarker
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000022
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueNDRangeKernel
+  Type         : code
+  Name type    : name
+  Hint         : 28
+  Name         : clEnqueueNDRangeKernel
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000021
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueNativeKernel
+  Type         : code
+  Name type    : name
+  Hint         : 29
+  Name         : clEnqueueNativeKernel
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001F
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueReadBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 30
+  Name         : clEnqueueReadBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000023
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueReadBufferRect
+  Type         : code
+  Name type    : name
+  Hint         : 31
+  Name         : clEnqueueReadBufferRect
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001E
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueReadImage
+  Type         : code
+  Name type    : name
+  Hint         : 32
+  Name         : clEnqueueReadImage
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000025
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueReleaseGLObjects
+  Type         : code
+  Name type    : name
+  Hint         : 33
+  Name         : clEnqueueReleaseGLObjects
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000019
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueTask
+  Type         : code
+  Name type    : name
+  Hint         : 34
+  Name         : clEnqueueTask
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000023
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueUnmapMemObject
+  Type         : code
+  Name type    : name
+  Hint         : 35
+  Name         : clEnqueueUnmapMemObject
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000022
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueWaitForEvents
+  Type         : code
+  Name type    : name
+  Hint         : 36
+  Name         : clEnqueueWaitForEvents
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000020
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueWriteBuffer
+  Type         : code
+  Name type    : name
+  Hint         : 37
+  Name         : clEnqueueWriteBuffer
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000024
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueWriteBufferRect
+  Type         : code
+  Name type    : name
+  Hint         : 38
+  Name         : clEnqueueWriteBufferRect
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001F
+  DLL name     : OpenCL.dll
+  Symbol name  : clEnqueueWriteImage
+  Type         : code
+  Name type    : name
+  Hint         : 39
+  Name         : clEnqueueWriteImage
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000014
+  DLL name     : OpenCL.dll
+  Symbol name  : clFinish
+  Type         : code
+  Name type    : name
+  Hint         : 40
+  Name         : clFinish
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000013
+  DLL name     : OpenCL.dll
+  Symbol name  : clFlush
+  Type         : code
+  Name type    : name
+  Hint         : 41
+  Name         : clFlush
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000021
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetCommandQueueInfo
+  Type         : code
+  Name type    : name
+  Hint         : 42
+  Name         : clGetCommandQueueInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetContextInfo
+  Type         : code
+  Name type    : name
+  Hint         : 43
+  Name         : clGetContextInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetDeviceIDs
+  Type         : code
+  Name type    : name
+  Hint         : 44
+  Name         : clGetDeviceIDs
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetDeviceInfo
+  Type         : code
+  Name type    : name
+  Hint         : 45
+  Name         : clGetDeviceInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetEventInfo
+  Type         : code
+  Name type    : name
+  Hint         : 46
+  Name         : clGetEventInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000023
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetEventProfilingInfo
+  Type         : code
+  Name type    : name
+  Hint         : 47
+  Name         : clGetEventProfilingInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000029
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetExtensionFunctionAddress
+  Type         : code
+  Name type    : name
+  Hint         : 48
+  Name         : clGetExtensionFunctionAddress
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001D
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetGLObjectInfo
+  Type         : code
+  Name type    : name
+  Hint         : 49
+  Name         : clGetGLObjectInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001E
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetGLTextureInfo
+  Type         : code
+  Name type    : name
+  Hint         : 50
+  Name         : clGetGLTextureInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetImageInfo
+  Type         : code
+  Name type    : name
+  Hint         : 51
+  Name         : clGetImageInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetKernelInfo
+  Type         : code
+  Name type    : name
+  Hint         : 52
+  Name         : clGetKernelInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000024
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetKernelWorkGroupInfo
+  Type         : code
+  Name type    : name
+  Hint         : 53
+  Name         : clGetKernelWorkGroupInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001E
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetMemObjectInfo
+  Type         : code
+  Name type    : name
+  Hint         : 54
+  Name         : clGetMemObjectInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetPlatformIDs
+  Type         : code
+  Name type    : name
+  Hint         : 55
+  Name         : clGetPlatformIDs
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001D
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetPlatformInfo
+  Type         : code
+  Name type    : name
+  Hint         : 56
+  Name         : clGetPlatformInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000021
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetProgramBuildInfo
+  Type         : code
+  Name type    : name
+  Hint         : 57
+  Name         : clGetProgramBuildInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetProgramInfo
+  Type         : code
+  Name type    : name
+  Hint         : 58
+  Name         : clGetProgramInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetSamplerInfo
+  Type         : code
+  Name type    : name
+  Hint         : 59
+  Name         : clGetSamplerInfo
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000026
+  DLL name     : OpenCL.dll
+  Symbol name  : clGetSupportedImageFormats
+  Type         : code
+  Name type    : name
+  Hint         : 60
+  Name         : clGetSupportedImageFormats
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000021
+  DLL name     : OpenCL.dll
+  Symbol name  : clReleaseCommandQueue
+  Type         : code
+  Name type    : name
+  Hint         : 61
+  Name         : clReleaseCommandQueue
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clReleaseContext
+  Type         : code
+  Name type    : name
+  Hint         : 62
+  Name         : clReleaseContext
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clReleaseEvent
+  Type         : code
+  Name type    : name
+  Hint         : 63
+  Name         : clReleaseEvent
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clReleaseKernel
+  Type         : code
+  Name type    : name
+  Hint         : 64
+  Name         : clReleaseKernel
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001E
+  DLL name     : OpenCL.dll
+  Symbol name  : clReleaseMemObject
+  Type         : code
+  Name type    : name
+  Hint         : 65
+  Name         : clReleaseMemObject
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clReleaseProgram
+  Type         : code
+  Name type    : name
+  Hint         : 66
+  Name         : clReleaseProgram
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clReleaseSampler
+  Type         : code
+  Name type    : name
+  Hint         : 67
+  Name         : clReleaseSampler
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000020
+  DLL name     : OpenCL.dll
+  Symbol name  : clRetainCommandQueue
+  Type         : code
+  Name type    : name
+  Hint         : 68
+  Name         : clRetainCommandQueue
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clRetainContext
+  Type         : code
+  Name type    : name
+  Hint         : 69
+  Name         : clRetainContext
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000019
+  DLL name     : OpenCL.dll
+  Symbol name  : clRetainEvent
+  Type         : code
+  Name type    : name
+  Hint         : 70
+  Name         : clRetainEvent
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clRetainKernel
+  Type         : code
+  Name type    : name
+  Hint         : 71
+  Name         : clRetainKernel
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001D
+  DLL name     : OpenCL.dll
+  Symbol name  : clRetainMemObject
+  Type         : code
+  Name type    : name
+  Hint         : 72
+  Name         : clRetainMemObject
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clRetainProgram
+  Type         : code
+  Name type    : name
+  Hint         : 73
+  Name         : clRetainProgram
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clRetainSampler
+  Type         : code
+  Name type    : name
+  Hint         : 74
+  Name         : clRetainSampler
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000025
+  DLL name     : OpenCL.dll
+  Symbol name  : clSetCommandQueueProperty
+  Type         : code
+  Name type    : name
+  Hint         : 75
+  Name         : clSetCommandQueueProperty
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001E
+  DLL name     : OpenCL.dll
+  Symbol name  : clSetEventCallback
+  Type         : code
+  Name type    : name
+  Hint         : 76
+  Name         : clSetEventCallback
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001A
+  DLL name     : OpenCL.dll
+  Symbol name  : clSetKernelArg
+  Type         : code
+  Name type    : name
+  Hint         : 77
+  Name         : clSetKernelArg
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000002C
+  DLL name     : OpenCL.dll
+  Symbol name  : clSetMemObjectDestructorCallback
+  Type         : code
+  Name type    : name
+  Hint         : 78
+  Name         : clSetMemObjectDestructorCallback
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 00000020
+  DLL name     : OpenCL.dll
+  Symbol name  : clSetUserEventStatus
+  Type         : code
+  Name type    : name
+  Hint         : 79
+  Name         : clSetUserEventStatus
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001C
+  DLL name     : OpenCL.dll
+  Symbol name  : clUnloadCompiler
+  Type         : code
+  Name type    : name
+  Hint         : 80
+  Name         : clUnloadCompiler
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: 4BD90F83 Thu Apr 29 00:48:03 2010
+  SizeOfData   : 0000001B
+  DLL name     : OpenCL.dll
+  Symbol name  : clWaitForEvents
+  Type         : code
+  Name type    : name
+  Hint         : 81
+  Name         : clWaitForEvents
+
+  Summary
+
+          C0 .debug$S
+          14 .idata$2
+          14 .idata$3
+           8 .idata$4
+           8 .idata$5
+           C .idata$6
