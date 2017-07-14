@@ -25,7 +25,7 @@ Every next frame we need to swap handles to these `GL_TEXTURE_3D` textures so th
 
 ![pic2](https://github.com/nvpro-samples/gl_cl_interop_pingpong_st/blob/master/doc/pic_2.png?raw=true)
 
-# ...But how do I read and write to `GL_TEXTURE_3D` in *CUDA* and what will it cost me?
+# ...But how do I read and write to `GL_TEXTURE_3D` in *OpenCL* and what will it cost me?
 
 In *OpenGL* a GPU texture resource is referenced by a `GLuint`
 
